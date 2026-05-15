@@ -43,4 +43,5 @@ The focus on GitHub is simple: publish practical resources, support technical co
 ## Current focus
 
 Turning technical experience in Microsoft modern work and security into concise public resources that are useful for admins, architects, partners, and IT teams.
+
 The focus on GitHub is simple: publish practical resources, support technical content, and make useful material easier to share and reuse.
