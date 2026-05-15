@@ -22,10 +22,10 @@ Microsoft modern work and security specialist focused on Microsoft 365, and prac
 Based in Australia. Building clear, useful resources around modern work, security architecture, and real-world Microsoft 365 adoption.
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20365-0F6CBD?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 badge" />
-  <img src="https://img.shields.io/badge/Modern%20Work-e69138?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 badge" />  
-  <img src="https://img.shields.io/badge/Security-2D6A4F?style=flat-square&logo=microsoftdefender&logoColor=white" alt="Security badge" />
-  <img src="https://img.shields.io/badge/M365%20Copilot-5B5BD6?style=flat-square&logo=microsoftcopilot&logoColor=white" alt="M365 Copilot badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-f25022?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 badge" />
+  <img src="https://img.shields.io/badge/Modern%20Work-7fba00?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 badge" />  
+  <img src="https://img.shields.io/badge/Security-00a4ef?style=flat-square&logo=microsoftdefender&logoColor=white" alt="Security badge" />
+  <img src="https://img.shields.io/badge/M365%20Copilot-ffb900?style=flat-square&logo=microsoftcopilot&logoColor=white" alt="M365 Copilot badge" />
   <img src="https://img.shields.io/badge/Australia-4A4A4A?style=flat-square&logo=github&logoColor=white" alt="Australia badge" />
 </p>
 
