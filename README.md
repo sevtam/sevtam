@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sevag <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=LinkedIn&logoColor=0077B5" alt="LinkedIn" />
+# Sevag <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" alt="LinkedIn" />
 
 Microsoft modern work and security specialist focused on Microsoft 365, and practical enablement for and IT teams.
 
