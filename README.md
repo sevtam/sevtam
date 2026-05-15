@@ -28,11 +28,13 @@ Based in Australia. Building clear, useful resources around modern work, securit
   <img src="https://img.shields.io/badge/Australia-4A4A4A?style=flat-square&logo=github&logoColor=white" alt="Australia badge" />
 </p>
 
-<## Bio
+<!--
+## Bio
 
 Work centres on Microsoft modern work and security, with a strong interest in identity, governance, compliance, and Copilot readiness.
 
-The focus on GitHub is simple: publish practical resources, support technical content, and make useful material easier to share and reuse.>
+The focus on GitHub is simple: publish practical resources, support technical content, and make useful material easier to share and reuse.
+-->
 
 ## Key skills
 
