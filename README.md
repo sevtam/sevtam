@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 # Sevag <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsevagtamoukian%2F" alt="LinkedIn" />
 
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsevagtamoukian%2F">
+
+
 Microsoft modern work and security specialist focused on Microsoft 365, and practical enablement for and IT teams.
 
 Based in Australia. Building clear, useful resources around modern work, security architecture, and real-world Microsoft 365 adoption.
