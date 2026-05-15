@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sev Tamoukian
+# Sevag
 
 Microsoft modern work and security specialist focused on Microsoft 365, and practical enablement for and IT teams.
 
